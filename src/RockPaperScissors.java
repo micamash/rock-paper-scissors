@@ -66,7 +66,7 @@ public class RockPaperScissors {
                         Thread.sleep(500);
                         System.out.println();
                         System.out.println("¯\\(°_o)/¯");
-                        System.out.println("Invalid input. Your choice must be a number 1-3.");
+                        System.out.println("Huh? Your choice must be a number 1-3.");
                         System.out.println();
                         Thread.sleep(500);
                     }
@@ -74,7 +74,7 @@ public class RockPaperScissors {
                     Thread.sleep(500);
                     System.out.println();
                     System.out.println("¯\\(°_o)/¯");
-                    System.out.println("Invalid input. Your choice must be a number 1-3.");
+                    System.out.println("Huh? Your choice must be a number 1-3.");
                     System.out.println();
                     scanner.nextLine();
                     Thread.sleep(500);
@@ -148,7 +148,7 @@ public class RockPaperScissors {
                 } else {
                     Thread.sleep(500);
                     System.out.println("¯\\(°_o)/¯");
-                    System.out.println("You must enter 'Y' for YES or 'N' for NO. ");
+                    System.out.println("Huh? You must enter 'Y' for YES or 'N' for NO. ");
                 }
             }
         }
